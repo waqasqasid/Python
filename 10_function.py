@@ -27,7 +27,13 @@ def fun2(age):
 def fun4():
     for x in range(1,201):
         print('who was the founder of pakistan',x)
+#fun4()
 
-fun4()
+# 5 
 
-    
+def fun5(age):
+    new_age = age + 20
+    return new_age
+
+future_age = fun5(23)
+print(future_age)
