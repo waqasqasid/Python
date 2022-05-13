@@ -36,4 +36,9 @@ def fun5(age):
     return new_age
 
 future_age = fun5(23)
-print(future_age)
+#print(future_age)
+
+
+
+
+print(150+250+350+450)
